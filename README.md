@@ -1,4 +1,4 @@
-# CodeChronicle
+# CodeChronicles
 *Chronicles my daily coding journey and achievements ⌨️🖥️*
 ## Daily Coding Challenge Repository
 
