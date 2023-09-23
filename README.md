@@ -8,4 +8,4 @@ I aim to solve one coding problem each day. Below, you'll find a table that list
 ## Daily Challenges
 | Date       | Folder Name          | Problem Title      | Link                                      |
 |------------|----------------------|--------------------|-------------------------------------------|
-| 22-09-2023 | [2023-09-22](daily-challenges/2023-09-22) | Problem Title | [LeetCode Link](https://leetcode.com/problem-link) |
+| 23-09-2023 | [Day-1](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-1) | Search in Rotated Sorted Array | [LeetCode Problem 33](https://leetcode.com/problems/search-in-rotated-sorted-array/) |
