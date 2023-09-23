@@ -17,7 +17,7 @@ The `search` function serves as the main algorithm to locate the target integer 
 
 1. It first calls the `pivotElement` function to determine the pivot index.
 2. Based on the value of the `target` compared to the values at the pivot and the first element, the function decides whether to search the left or right subarray.
-3. Subsequently, it performs a binary search within the appropriate subarray to find the `target`.
+3. Subsequently, it performs a `binary search` within the appropriate subarray to find the `target`.
 4. If the `target` is found, the function returns the index where it's located; otherwise, it returns -1 to indicate that the target integer is not present in the array.
 
 This code effectively resolves the problem of searching for a target integer in a rotated sorted array with a time complexity of O(log n), where "n" denotes the number of elements in the array.
