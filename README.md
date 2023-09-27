@@ -11,3 +11,5 @@ I aim to solve one coding problem each day. Below, you'll find a table that list
 | 23-09-2023 | [Day-1](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-1) | Search in Rotated Sorted Array | [LeetCode Problem 33](https://leetcode.com/problems/search-in-rotated-sorted-array/) |
 | 24-09-2023 | [Day-2](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-2) | Search a 2D Matrix | [LeetCode Problem 74](https://leetcode.com/problems/search-a-2d-matrix/) |
 | 25-09-2023 | [Day-3](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-3) | Sort Colors | [LeetCode Problem 75](https://leetcode.com/problems/sort-colors/) |
+| 26-09-2023 | [Day-4](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-4) | Find the Middle Index in Array | [LeetCode Problem 1991](https://leetcode.com/problems/find-the-middle-index-in-array/) |
+
