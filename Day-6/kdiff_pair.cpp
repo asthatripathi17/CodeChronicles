@@ -43,7 +43,6 @@ class Solution {
 public:
 
     bool binary_search(vector<int> nums, int a, int k){
-
         int s = a+1;
         int e = nums.size()-1;
         int target = nums[a]+k;
@@ -64,19 +63,14 @@ public:
     }
 
     int findPairs(vector<int>& nums, int k) {
-        if(k<0)
-            return 0;
-            
+ 
         sort(nums.begin(),nums.end());
         // to store unique elements in form of pairs
         set<pair<int,int>> pair;
-        int n = nums.size();
-        for(int i = 0;i<n-1;i++){
+
+        for(int i = 0;i<nums.size()-1;i++){
             if(binary_search(nums,i,k)){
                 pair.insert({nums[i], nums[i]+k});
-            }
-            else{
-                continue;
             }
         }
         return pair.size();
