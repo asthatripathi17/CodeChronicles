@@ -15,3 +15,4 @@ I aim to solve one coding problem each day. Below, you'll find a table that list
 | 27-09-2023 | [Day-5](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-5) | Check if N and its double exist | [LeetCode Problem 1346](https://leetcode.com/problems/check-if-n-and-its-double-exist/) |
 | 28-09-2023 | [Day-6](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-6) | K-diff Pairs in an Array | [LeetCode Problem 532](https://leetcode.com/problems/k-diff-pairs-in-an-array/) |
 | 29-09-2023 | [Day-7](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-7) | Find K Closest Elements | [LeetCode Problem 658](https://leetcode.com/problems/find-k-closest-elements/) |
+| 30-09-2023 | [Day-8](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-8) | Sqrt(x) | [LeetCode Problem 69](https://leetcode.com/problems/sqrtx/) |
