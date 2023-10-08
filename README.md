@@ -20,3 +20,4 @@ I aim to solve one coding problem each day. Below, you'll find a table that list
 | 2-10-2023 | [Day-10](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-10) | Peak Index in a Mountain Array | [LeetCode Problem 852](https://leetcode.com/problems/peak-index-in-a-mountain-array/) |
 | 3-10-2023 | [Day-11](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-11) | Spiral Matrix | [LeetCode Problem 54](https://leetcode.com/problems/spiral-matrix/) |
 | 4-10-2023 | [Day-12](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-12) | Rotate Image<br>Median of two sorted arrays | [LeetCode Problem 48](https://leetcode.com/problems/rotate-image/)<br>[LeetCode Problem 4](https://leetcode.com/problems/median-of-two-sorted-arrays/) |
+| 5-10-2023 | [Day-13](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-13) | Sort Array by Parity | [LeetCode Problem 905](https://leetcode.com/problems/sort-array-by-parity/) |
