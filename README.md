@@ -14,3 +14,4 @@ I aim to solve one coding problem each day. Below, you'll find a table that list
 | 26-09-2023 | [Day-4](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-4) | Find the Middle Index in Array | [LeetCode Problem 1991](https://leetcode.com/problems/find-the-middle-index-in-array/) |
 | 27-09-2023 | [Day-5](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-5) | Check if N and its double exist | [LeetCode Problem 1346](https://leetcode.com/problems/check-if-n-and-its-double-exist/) |
 | 28-09-2023 | [Day-6](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-6) | K-diff Pairs in an Array | [LeetCode Problem 532](https://leetcode.com/problems/k-diff-pairs-in-an-array/) |
+| 29-09-2023 | [Day-7](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-7) | Find K Closest Elements | [LeetCode Problem 658](https://leetcode.com/problems/find-k-closest-elements/) |
