@@ -18,3 +18,4 @@ I aim to solve one coding problem each day. Below, you'll find a table that list
 | 30-09-2023 | [Day-8](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-8) | Sqrt(x) | [LeetCode Problem 69](https://leetcode.com/problems/sqrtx/) |
 | 1-10-2023 | [Day-9](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-9) | Find Pivot Index | [LeetCode Problem 724](https://leetcode.com/problems/find-pivot-index/) |
 | 2-10-2023 | [Day-10](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-10) | Peak Index in a Mountain Array | [LeetCode Problem 852](https://leetcode.com/problems/peak-index-in-a-mountain-array/) |
+| 3-10-2023 | [Day-11](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-11) | Spiral Matrix | [LeetCode Problem 54](https://leetcode.com/problems/spiral-matrix/) |
