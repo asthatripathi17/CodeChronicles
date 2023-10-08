@@ -16,3 +16,4 @@ I aim to solve one coding problem each day. Below, you'll find a table that list
 | 28-09-2023 | [Day-6](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-6) | K-diff Pairs in an Array | [LeetCode Problem 532](https://leetcode.com/problems/k-diff-pairs-in-an-array/) |
 | 29-09-2023 | [Day-7](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-7) | Find K Closest Elements | [LeetCode Problem 658](https://leetcode.com/problems/find-k-closest-elements/) |
 | 30-09-2023 | [Day-8](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-8) | Sqrt(x) | [LeetCode Problem 69](https://leetcode.com/problems/sqrtx/) |
+| 1-10-2023 | [Day-9](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-9) | Find Pivot Index | [LeetCode Problem 724](https://leetcode.com/problems/find-pivot-index/) |
