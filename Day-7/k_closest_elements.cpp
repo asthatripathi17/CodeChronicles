@@ -1,3 +1,4 @@
+//Approach 1
 //using two pointer approach
 class Solution {
 public:
