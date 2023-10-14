@@ -23,3 +23,4 @@ I aim to solve one coding problem each day. Below, you'll find a table that list
 | 5-10-2023 | [Day-13](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-13) | Sort Array by Parity | [LeetCode Problem 905](https://leetcode.com/problems/sort-array-by-parity/) |
 | 6-10-2023 | [Day-14](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-14) | Container with Most Water | [LeetCode Problem 11](https://leetcode.com/problems/container-with-most-water/) |
 | 7-10-2023 | [Day-15](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-15) | Allocate minimum number of pages | [GeeksForGeeks Problem](https://practice.geeksforgeeks.org/problems/allocate-minimum-number-of-pages0937/1) |
+| 8-10-2023 | [Day-16](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-16) | Capacity To Ship Packages within D days | [LeetCode Problem 1011](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/) |
