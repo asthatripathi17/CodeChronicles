@@ -1,3 +1,4 @@
+//rotate image using reverse()
 class Solution {
 public:
     void rotate(vector<vector<int>>& matrix) {
