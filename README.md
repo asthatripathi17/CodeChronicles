@@ -1,5 +1,5 @@
 # CodeChronicles✨✨
-*Chronicles my daily coding journey and achievements ⌨🖥️*
+*Chronicles my daily coding journey and achievements ⌨️🖥️*
 ## Daily Coding Challenge Repository
 
 This repository contains my daily coding challenge solutions from various platforms.
