@@ -29,3 +29,4 @@ I aim to solve one coding problem each day. Below, you'll find a table that list
 | 11-10-2023 | [Day-19](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-19) | Aggressive Cows<br>Magnetic Force Between Two Balls | [GeeksForGeeks Problem](https://practice.geeksforgeeks.org/problems/aggressive-cows/0)<br>[LeetCode Problem 1552](https://leetcode.com/problems/magnetic-force-between-two-balls/) |
 | 12-10-2023 | [Day-20](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-20) | EKO - SPOJ | [SPOJ](https://www.spoj.com/problems/EKO/) |
 | 13-10-2023 | [Day-21](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-21) | PRATA - SPOJ | [SPOJ](https://www.spoj.com/problems/PRATA/) |
+| 14-10-2023 | [Day-22](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-22) | Reverse Vowels of a String | [LeetCode Problem 345](https://leetcode.com/problems/reverse-vowels-of-a-string/) |
