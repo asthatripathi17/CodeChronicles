@@ -1,4 +1,5 @@
-//brute force approach using str.find(target)
+//brute force 
+//approach using str.find(target)
 
 class Solution {
 public:
