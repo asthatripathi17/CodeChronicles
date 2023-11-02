@@ -53,6 +53,7 @@ public:
 
 
 //Approach - Start checking from the largest string possible --> small string and then pop one character if not true
+//Greedy approach
 
 class Solution {
 public:
@@ -85,7 +86,7 @@ public:
         string small_str = min_str(str1,str2);
         string big_str = max_str(str1,str2);
         int len_small = small_str.length(), len_big = big_str.length();
-        string test = small_str;
+        string test = small_str; //taking largest possible string for testing
         for(int i = 0; i<len_small; i++){
             if(len_small%test.length() == 0 && len_big%test.length() == 0){
                 if(check_sub(small_str,test)){
@@ -94,7 +95,7 @@ public:
                     }
                 }
             }
-            test.pop_back();
+            test.pop_back(); //removing last character if not satisfying
         }
         return test;
     }
