@@ -35,3 +35,4 @@ I aim to solve one coding problem each day. Below, you'll find a table that list
 | 17-10-2023 | [Day-25](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-25) | Remove All Occurrences of a Substring | [LeetCode Problem 1910](https://leetcode.com/problems/remove-all-occurrences-of-a-substring/) |
 | 18-10-2023 | [Day-26](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-26) | Valid Palindrome II | [LeetCode Problem 680](https://leetcode.com/problems/valid-palindrome-ii/description/) |
 | 19-10-2023 | [Day-27](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-27) | Minimum Time Difference | [LeetCode Problem 539](https://leetcode.com/problems/minimum-time-difference/) |
+| 20-10-2023 | [Day-28](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-28) | Palindromic Substrings | [LeetCode Problem 647](https://leetcode.com/problems/palindromic-substrings/) |
