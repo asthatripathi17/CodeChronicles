@@ -39,3 +39,4 @@ I aim to solve one coding problem each day. Below, you'll find a table that list
 | 21-10-2023 | [Day-29](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-29) | Valid Parentheses | [LeetCode Problem 20](https://leetcode.com/problems/valid-parentheses/) |
 | 22-10-2023 | [Day-30](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-30) | Largest Number | [LeetCode Problem 179](https://leetcode.com/problems/largest-number/) |
 | 23-10-2023 | [Day-31](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-31) | Custom Sort String | [LeetCode Problem 791](https://leetcode.com/problems/custom-sort-string/) |
+| 24-10-2023 | [Day-32](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-32) | Verifying an Alien Dictionary | [LeetCode Problem 953](https://leetcode.com/problems/verifying-an-alien-dictionary/) |
