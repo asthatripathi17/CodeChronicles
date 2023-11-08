@@ -41,3 +41,4 @@ I aim to solve one coding problem each day. Below, you'll find a table that list
 | 23-10-2023 | [Day-31](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-31) | Custom Sort String | [LeetCode Problem 791](https://leetcode.com/problems/custom-sort-string/) |
 | 24-10-2023 | [Day-32](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-32) | Verifying an Alien Dictionary | [LeetCode Problem 953](https://leetcode.com/problems/verifying-an-alien-dictionary/) |
 | 25-10-2023 | [Day-33](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-33) | Longest Word in Dictionary through Deleting | [LeetCode Problem 524](https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/) |
+| 26-10-2023 | [Day-34](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-34) | Valid Anagram | [LeetCode Problem 242](https://leetcode.com/problems/valid-anagram/) |
