@@ -46,3 +46,4 @@ I aim to solve one coding problem each day. Below, you'll find a table that list
 | 28-10-2023 | [Day-36](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-36) | Longest Common Prefix | [LeetCode Problem 14](https://leetcode.com/problems/longest-common-prefix/) |
 | 29-10-2023 | [Day-37](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-37) | Isomorphic Strings | [LeetCode Problem 205](https://leetcode.com/problems/isomorphic-strings/) |
 | 30-10-2023 | [Day-38](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-38) | Reorganize String | [LeetCode Problem 767](https://leetcode.com/problems/reorganize-string/) |
+| 31-10-2023 | [Day-39](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-39) | Group Anagrams | [LeetCode Problem 49](https://leetcode.com/problems/group-anagrams/) |
