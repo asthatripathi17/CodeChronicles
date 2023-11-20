@@ -1,3 +1,4 @@
+//Approach 1 - Using sorting
 class Solution {
 public:
     string sort_str(string s){
@@ -18,3 +19,5 @@ public:
         return ans;
     }
 };
+
+//Approach 2 - Using hashmap
