@@ -48,3 +48,4 @@ I aim to solve one coding problem each day. Below, you'll find a table that list
 | 30-10-2023 | [Day-38](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-38) | Reorganize String | [LeetCode Problem 767](https://leetcode.com/problems/reorganize-string/) |
 | 31-10-2023 | [Day-39](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-39) | Group Anagrams | [LeetCode Problem 49](https://leetcode.com/problems/group-anagrams/) |
 | 1-11-2023 | [Day-40](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-40) | Longest Palindromic Substring | [LeetCode Problem 5](https://leetcode.com/problems/longest-palindromic-substring/) |
+| 2-11-2023 | [Day-41](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-41) | Find the Index of the First Occurrence in a String | [LeetCode Problem 28](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) |
