@@ -52,3 +52,4 @@ I aim to solve one coding problem each day. Below, you'll find a table that list
 | 3-11-2023 | [Day-42](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-42) | String to Integer (atoi) | [LeetCode Problem 8](https://leetcode.com/problems/string-to-integer-atoi/) |
 | 4-11-2023 | [Day-43](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-43) | String Compression | [LeetCode Problem 443](https://leetcode.com/problems/string-compression/) |
 | 5-11-2023 | [Day-44](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-44) | Removing Stars from a String | [LeetCode Problem 2390](https://leetcode.com/problems/removing-stars-from-a-string/) |
+| 6-11-2023 | [Day-45](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-45) | Asteroid Collision | [LeetCode Problem 735](https://leetcode.com/problems/asteroid-collision/) |
