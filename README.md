@@ -54,3 +54,4 @@ I aim to solve one coding problem each day. Below, you'll find a table that list
 | 5-11-2023 | [Day-44](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-44) | Removing Stars from a String | [LeetCode Problem 2390](https://leetcode.com/problems/removing-stars-from-a-string/) |
 | 6-11-2023 | [Day-45](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-45) | Asteroid Collision | [LeetCode Problem 735](https://leetcode.com/problems/asteroid-collision/) |
 | 7-11-2023 | [Day-46](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-46) | Integer to Roman | [LeetCode Problem 12](https://leetcode.com/problems/integer-to-roman/) |
+| 8-11-2023 | [Day-47](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-47) | Zigzag Conversion | [LeetCode Problem 6](https://leetcode.com/problems/zigzag-conversion/) |
