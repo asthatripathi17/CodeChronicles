@@ -1,6 +1,8 @@
 # Code Explanation
 
-The provided C++ code addresses the problem of compressing a vector of characters in [LeetCode Problem 443 - String Compression](https://leetcode.com/problems/string-compression/). Two different approaches are presented to achieve the desired compression, and potential optimizations are discussed -
+The provided C++ code addresses the problem of compressing a vector of characters in [LeetCode Problem 443 - String Compression](https://leetcode.com/problems/string-compression/). The function encodes and returns the run-length encoded string for the given string. _**Run-length encoding** is a form of lossless data compression in which runs of data are stored as a single data value and count, rather than as the original run._
+
+Two different approaches are presented to achieve the desired compression, and potential optimizations are discussed -
 
 ## Approach 1: Vector Copy and Modification
 
