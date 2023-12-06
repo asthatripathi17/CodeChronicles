@@ -57,3 +57,4 @@ I aim to solve one coding problem each day. Below, you'll find a table that list
 | 8-11-2023 | [Day-47](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-47) | Zigzag Conversion(Under Construction) | [LeetCode Problem 6](https://leetcode.com/problems/zigzag-conversion/) |
 | 9-11-2023 | [Day-48](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-48) | Decode String | [LeetCode Problem 394](https://leetcode.com/problems/decode-string/) |
 | 10-11-2023 | [Day-49](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-49) | Count of Matches in Tournament | [LeetCode Problem 1688](https://leetcode.com/problems/count-of-matches-in-tournament/) |
+| 11-11-2023 | [Day-50](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-50) | Calculate Money in Leetcode Bank | [LeetCode Problem 1716](https://leetcode.com/problems/calculate-money-in-leetcode-bank/) |
