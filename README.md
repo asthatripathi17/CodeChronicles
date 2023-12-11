@@ -59,3 +59,5 @@ I aim to solve one coding problem each day. Below, you'll find a table that list
 | 10-11-2023 | [Day-49](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-49) | Count of Matches in Tournament | [LeetCode Problem 1688](https://leetcode.com/problems/count-of-matches-in-tournament/) |
 | 11-11-2023 | [Day-50](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-50) | Calculate Money in Leetcode Bank | [LeetCode Problem 1716](https://leetcode.com/problems/calculate-money-in-leetcode-bank/) |
 | 12-11-2023 | [Day-51](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-51) | Clumsy Factorial | [LeetCode Problem 1006](https://leetcode.com/problems/clumsy-factorial/) |
+| 13-11-2023 | [Day-52](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-52) | Element Appearing More Than 25% In Sorted Array | [LeetCode Problem 1287](https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array/) |
+
