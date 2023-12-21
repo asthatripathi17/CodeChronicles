@@ -63,4 +63,4 @@ I aim to solve one coding problem each day. Below, you'll find a table that list
 | 14-11-2023 | [Day-53](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-53) | Valid Palindrome | [LeetCode Problem 125](https://leetcode.com/problems/valid-palindrome/) |
 | 15-11-2023 | [Day-54](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-54) | Daily Temperatures | [LeetCode Problem 739](https://leetcode.com/problems/daily-temperatures/) |
 | 16-11-2023 | [Day-55](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-55) | Buy Two Chocolates | [LeetCode Problem 2706](https://leetcode.com/problems/buy-two-chocolates/) |
-| 17-11-2023 | [Day-56](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-56) | Widest Vertical Area between Two Points Containing no Points | [LeetCode Problem 1637](https://leetcode.com/problems/buy-two-chocolates/) |
+| 17-11-2023 | [Day-56](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-56) | Widest Vertical Area between Two Points Containing no Points | [LeetCode Problem 1637](https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points/) |
