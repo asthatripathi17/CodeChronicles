@@ -67,3 +67,4 @@ I aim to solve one coding problem each day. Below, you'll find a table that list
 | 18-11-23   | [Day-57](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-57) | Shortest Path in a Grid with Obstacles Elimination | [LeetCode Problem 1293](https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/) |
 | 19-11-23 | [Day-58](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-58) | Number of Dice Rolls with Target Sum | [LeetCode Problem 1155](https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/) |
 | 20-11-23 | [Day-59](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-59) | Remove Element | [LeetCode Problem 27](https://leetcode.com/problems/remove-element/) |
+| 21-11-23 | [Day-60](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-60) | Move Zeroes | [LeetCode Problem 283](https://leetcode.com/problems/move-zeroes/) |
