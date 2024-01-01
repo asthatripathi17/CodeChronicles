@@ -71,3 +71,4 @@ I aim to solve one coding problem each day. Below, you'll find a table that list
 | 22-11-23 | [Day-61](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-61) | Max Number of K-Sum Pairs | [LeetCode Problem 1679](https://leetcode.com/problems/max-number-of-k-sum-pairs/) |
 | 23-11-23 | [Day-62](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-62) | Redistribute Characters to make All Strings Equal | [LeetCode Problem 1897](https://leetcode.com/problems/redistribute-characters-to-make-all-strings-equal/) |
 | 24-11-23 | [Day-63](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-63) | Largest Substring Between Two Equal Characters | [LeetCode Problem 1624](https://leetcode.com/problems/largest-substring-between-two-equal-characters/) |
+| 25-11-23 | [Day-64](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-64) | Simplify Path | [LeetCode Problem 71](https://leetcode.com/problems/simplify-path/) |
