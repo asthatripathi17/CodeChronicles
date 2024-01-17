@@ -73,4 +73,4 @@ I aim to solve one coding problem each day. Below, you'll find a table that list
 | 24-11-23 | [Day-63](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-63) | Largest Substring Between Two Equal Characters | [LeetCode Problem 1624](https://leetcode.com/problems/largest-substring-between-two-equal-characters/) |
 | 25-11-23 | [Day-64](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-64) | Simplify Path | [LeetCode Problem 71](https://leetcode.com/problems/simplify-path/) |
 | 26-11-23 | [Day-65](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-65) | Remove Duplicates from Sorted Array | [LeetCode Problem 26](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) |
-
+| 27-11-23 | [Day-66](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-66) | Happy Number | [LeetCode Problem 202](https://leetcode.com/problems/happy-number/) |
