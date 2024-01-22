@@ -2,8 +2,8 @@
 *Chronicles my daily coding journey and achievements ⌨🖥️*
 ## Daily Coding Challenge Repository
 
-This repository contains my daily coding challenge solutions from various platforms.
-I aim to solve one coding problem each day. Below, you'll find a table that lists each day's challenge or solved problem along with the folder name, problem title, and a link to the problem. 
+This repository contains my daily coding challenge solutions from various platforms. 
+I aim to solve one coding problem each day. Below, you'll find a table that lists each day's challenge or solved problem along with the folder name, problem title, and a link to the problem -
 
 ## Daily Challenges
 | Date       | Folder Name          | Problem Title      | Link                                      |
