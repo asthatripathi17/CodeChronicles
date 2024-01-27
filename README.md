@@ -75,3 +75,4 @@ I aim to solve one coding problem each day. Below, you'll find a table that list
 | 26-11-23 | [Day-65](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-65) | Remove Duplicates from Sorted Array | [LeetCode Problem 26](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) |
 | 27-11-23 | [Day-66](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-66) | Happy Number | [LeetCode Problem 202](https://leetcode.com/problems/happy-number/) |
 | 28-11-23 | [Day-67](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-67) | Count Primes | [LeetCode Problem 204](https://leetcode.com/problems/count-primes/) |
+| 29-11-23 | [Day-68](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-68) | LCM and GCD | [GeeksForGeeks Problem](https://www.geeksforgeeks.org/problems/lcm-and-gcd4516/1) |
