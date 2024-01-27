@@ -19,7 +19,7 @@ int countPrimes(int n) {
 Approach 2
 
 // Using Sieve of Eratosthenes
-// 
+// TC = O(n*log(log(n)))
 int countPrimes(int n) {
     int count = 0; //keep the count of primes encountered
     
