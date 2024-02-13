@@ -77,4 +77,6 @@ I aim to solve one coding problem each day. Below, you'll find a table that list
 | 28-11-23 | [Day-67](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-67) | Count Primes | [LeetCode Problem 204](https://leetcode.com/problems/count-primes/) |
 | 29-11-23 | [Day-68](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-68) | LCM and GCD | [GeeksForGeeks Problem](https://www.geeksforgeeks.org/problems/lcm-and-gcd4516/1) |
 | 30-11-23 | [Day-69](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-69) | Modular Exponentiation for large numbers | [GeeksForGeeks Problem](https://www.geeksforgeeks.org/problems/modular-exponentiation-for-large-numbers5537/1) |
-| 31-11-23 | [Day-70](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-70) | Product of Primes | [GeeksForGeeks Problem](https://www.geeksforgeeks.org/problems/product-of-primes5328/1) |
+| 01-12-23 | [Day-70](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-70) | Product of Primes | [GeeksForGeeks Problem](https://www.geeksforgeeks.org/problems/product-of-primes5328/1) |
+| 02-12-23 | [Day-71](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-71) | Add Strings | [Leetcode 415](https://leetcode.com/problems/add-strings/) |
+
