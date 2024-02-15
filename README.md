@@ -80,4 +80,4 @@ I aim to solve one coding problem each day. Below, you'll find a table that list
 | 01-12-23 | [Day-70](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-70) | Product of Primes | [GeeksForGeeks Problem](https://www.geeksforgeeks.org/problems/product-of-primes5328/1) |
 | 02-12-23 | [Day-71](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-71) | Add Strings | [Leetcode Problem 415](https://leetcode.com/problems/add-strings/) |
 | 03-12-23 | [Day-72](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-72) | Minimum changes to make all substrings distinct | [GeeksForGeeks Problem](https://www.geeksforgeeks.org/problems/minimum-changes-to-make-all-substrings-distinct4722/1) |
-
+| 04-12-23 | [Day-73](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-73) | Best Time to Buy and Sell Stock | [Leetcode Problem 121](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) |
