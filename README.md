@@ -84,3 +84,5 @@ I aim to solve one coding problem each day. Below, you'll find a table that list
 | 05-12-23 | [Day-74](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-74) | Integer to English Words | [Leetcode Problem 273](https://leetcode.com/problems/integer-to-english-words/) |
 | 06-12-23 | [Day-75](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-75) | Merge Without Extra Space | [GeeksForGeeks Problem](https://www.geeksforgeeks.org/problems/merge-two-sorted-arrays-1587115620/1) |
 | 07-12-23 | [Day-76](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-76) | Merge Sort | [GeeksForGeeks Problem](https://www.geeksforgeeks.org/problems/merge-sort/1) |
+| 08-12-23 | [Day-77](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-77) | Merging two unsorted arrays in sorted order | [GeeksForGeeks Problem](https://www.geeksforgeeks.org/problems/merging-two-unsorted-arrays-in-sorted-order1020/1) |
+
