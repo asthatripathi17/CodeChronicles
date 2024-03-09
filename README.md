@@ -86,3 +86,5 @@ I aim to solve one coding problem each day. Below, you'll find a table that list
 | 07-12-23 | [Day-76](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-76) | Merge Sort | [GeeksForGeeks Problem](https://www.geeksforgeeks.org/problems/merge-sort/1) |
 | 08-12-23 | [Day-77](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-77) | Merging two unsorted arrays in sorted order | [GeeksForGeeks Problem](https://www.geeksforgeeks.org/problems/merging-two-unsorted-arrays-in-sorted-order1020/1) |
 | 09-12-23 | [Day-78](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-78) | Sort an Array | [Leetcode Problem 912](https://leetcode.com/problems/sort-an-array/) |
+| 10-12-23 | [Day-78](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-79) | Global and Local Inversions | [Leetcode Problem 775](https://leetcode.com/problems/global-and-local-inversions/) |
+
