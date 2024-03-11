@@ -88,4 +88,5 @@ I aim to solve one coding problem each day. Below, you'll find a table that list
 | 09-12-23 | [Day-78](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-78) | Sort an Array | [Leetcode Problem 912](https://leetcode.com/problems/sort-an-array/) |
 | 10-12-23 | [Day-79](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-79) | Global and Local Inversions | [Leetcode Problem 775](https://leetcode.com/problems/global-and-local-inversions/) |
 | 11-12-23 | [Day-80](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-80) | Count Inversions | [GeeksForGeeks Problem](https://www.geeksforgeeks.org/problems/inversion-of-array-1587115620/1) |
+| 12-12-23 | [Day-81](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-81) | Reverse Words in a String | [Leetcode Problem 151](https://leetcode.com/problems/reverse-words-in-a-string/) |
 
