@@ -91,3 +91,4 @@ I aim to solve one coding problem each day. Below, you'll find a table that list
 | 12-12-23 | [Day-81](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-81) | Reverse Words in a String | [Leetcode Problem 151](https://leetcode.com/problems/reverse-words-in-a-string/) |
 | 13-12-23 | [Day-82](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-82) | Rotate Array | [Leetcode Problem 189](https://leetcode.com/problems/rotate-array/) |
 | 14-12-23 | [Day-83](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-83) | Minimum Size Subarray Sum | [Leetcode Problem 209](https://leetcode.com/problems/minimum-size-subarray-sum/) |
+| 15-12-23 | [Day-84](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-84) | Rat in a Maze Problem - I | [GeeksForGeeks Problem](https://www.geeksforgeeks.org/problems/rat-in-a-maze-problem/1) |
