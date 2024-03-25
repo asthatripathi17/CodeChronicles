@@ -28,5 +28,23 @@ public:
         }
         return -1;
 
+
+        // Optimal Approach using Moore's Majority Voting Algorithm
+        int ele = 0, count = 0; // count's value tells whether ele is more than n/2 (value should be more than 0) or not   
+        for(int i = 0; i<nums.size(); i++){
+            if(count == 0){
+                ele = nums[i];
+            }
+            if(nums[i] == ele){
+                    count++;
+            }
+            else{
+                count--;
+            }
+        }
+
+        return ele;
+
+
     }
 };
