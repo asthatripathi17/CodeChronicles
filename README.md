@@ -93,3 +93,5 @@ I aim to solve one coding problem each day. Below, you'll find a table that list
 | 14-12-23 | [Day-83](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-83) | Minimum Size Subarray Sum | [Leetcode Problem 209](https://leetcode.com/problems/minimum-size-subarray-sum/) |
 | 15-12-23 | [Day-84](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-84) | Rat in a Maze Problem - I | [GeeksForGeeks Problem](https://www.geeksforgeeks.org/problems/rat-in-a-maze-problem/1) |
 | 16-12-23 | [Day-85](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-85) | Majority Element | [Leetcode Problem 209](https://leetcode.com/problems/majority-element/) |
+| 17-12-23 | [Day-86](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-86) | Basic Calculator | [Leetcode Problem 224](https://leetcode.com/problems/basic-calculator/) |
+
