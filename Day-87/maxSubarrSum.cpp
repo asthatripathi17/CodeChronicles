@@ -29,4 +29,41 @@ int maxSubArray(vector<int>& nums) {
         }
         // cout<<index_s<<" "<<index_e;
         return sum;
+        
+    }
+
+// DnC Approach
+int maxSubArrayHelper(vector<int>& nums, int start, int end){
+
+        if(start == end){
+            return nums[start];
+        }
+        int mid = start + ((end-start) >> 1);
+        int lsum = maxSubArrayHelper(nums,start,mid);
+        int rsum = maxSubArrayHelper(nums,mid+1,end);
+
+        // Calculating the cross border sum
+        int leftBorderMaxSum = INT_MIN, rightBorderMaxSum = INT_MIN;
+        int leftBorderSum = 0, rightBorderSum = 0;
+        // Calculating leftBorderSum
+        for(int i = mid; i>=0; i--){
+            leftBorderSum += nums[i];
+            if(leftBorderSum>leftBorderMaxSum){
+                leftBorderMaxSum = leftBorderSum;
+            }
+        }
+        // Calculating rightBorderSum
+        for(int i = mid+1; i<=end; i++){
+            rightBorderSum += nums[i];
+            if(rightBorderSum>rightBorderMaxSum){
+                rightBorderMaxSum = rightBorderSum;
+            }
+        }
+
+        int crossMaxSum = leftBorderMaxSum + rightBorderMaxSum;
+        return max(lsum,max(rsum,crossMaxSum));
+    }
+    int maxSubArray(vector<int>& nums) {
+        
+        return maxSubArrayHelper(nums,0,nums.size()-1);
     }
