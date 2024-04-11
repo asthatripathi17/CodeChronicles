@@ -3,7 +3,7 @@
 ## Daily Coding Challenge Repository
 
 This repository contains my daily coding challenge solutions from various platforms. 
-I aim to solve one coding problem each day. Below, you'll find a table that lists each day's challenge or solved problem along with the folder name, problem title, and a link to the problem - 
+I aim to solve one coding problem each day. Below, you'll find a table that lists each day's challenge or solved problem along with the folder name, problem title, and a link to the problem. 
 
 ## Daily Challenges
 | Date       | Folder Name          | Problem Title      | Link                                      |
@@ -96,4 +96,5 @@ I aim to solve one coding problem each day. Below, you'll find a table that list
 | 17-12-23 | [Day-86](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-86) | Basic Calculator | [Leetcode Problem 224](https://leetcode.com/problems/basic-calculator/) |
 | 18-12-23 | [Day-87](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-87) | Maximum Subarray | [Leetcode Problem 53](https://leetcode.com/problems/maximum-subarray/) |
 | 19-12-23 | [Day-88](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-88) | Guess Number Higher or Lower | [Leetcode Problem 374](https://leetcode.com/problems/guess-number-higher-or-lower/) |
+| 20-12-23 | [Day-89](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-89) | Is subsequence | [Leetcode Problem 392](https://leetcode.com/problems/is-subsequence/) |
 
