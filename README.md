@@ -98,4 +98,4 @@ I aim to solve one coding problem each day. Below, you'll find a table that list
 | 19-12-23 | [Day-88](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-88) | Guess Number Higher or Lower | [Leetcode Problem 374](https://leetcode.com/problems/guess-number-higher-or-lower/) |
 | 20-12-23 | [Day-89](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-89) | Is subsequence | [Leetcode Problem 392](https://leetcode.com/problems/is-subsequence/) |
 | 21-12-23 | [Day-90](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-90) | Letter Combinations of a Phone Number | [Leetcode Problem 17](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) |
-
+| 22-12-23 | [Day-91](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-91) | Word Pattern | [Leetcode Problem 290](https://leetcode.com/problems/word-pattern/) |
