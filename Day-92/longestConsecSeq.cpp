@@ -1,6 +1,31 @@
+// TC = O(n); uses unordered set and checks where is the starting point
 int longestConsecutive(vector<int>& nums) {
         
-        // Uses O(nlogn) time complexity --> TODO: Get TC = O(n)
+        unordered_set<int> myset;
+        for(int i = 0; i<nums.size(); i++){
+            myset.insert(nums[i]);
+        }
+        int count = 0, longestCount = 0;
+
+        for(auto num : myset){
+            if(myset.find(num - 1) == myset.end()){ // myset.find() --> takes near const time
+                int x = num; 
+                count = 0;
+                while(myset.find(x)!=myset.end()){
+                    count++;
+                    x++;
+                }
+                longestCount = max(longestCount,count);
+            }
+        }
+
+        return longestCount;
+    }
+
+
+int longestConsecutive(vector<int>& nums) {
+        
+        // Uses O(nlogn) time complexity 
         if(nums.size()<=1){
             return nums.size();
         }
