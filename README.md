@@ -101,4 +101,5 @@ I aim to solve one coding problem each day. Below, you'll find a table that list
 | 22-12-23 | [Day-91](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-91) | Word Pattern | [Leetcode Problem 290](https://leetcode.com/problems/word-pattern/) |
 | 23-12-23 | [Day-92](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-92) | Longest Consecutive Sequence | [Leetcode Problem 128](https://leetcode.com/problems/longest-consecutive-sequence/) |
 | 24-12-23 | [Day-93](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-93) | Set Matrix Zeroes | [Leetcode Problem 73](https://leetcode.com/problems/set-matrix-zeroes/) |
+| 25-12-23 | [Day-94](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-94) | Length of Last Word | [Leetcode Problem 58](https://leetcode.com/problems/length-of-last-word/) |
 
