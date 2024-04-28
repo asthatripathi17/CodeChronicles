@@ -103,4 +103,4 @@ I aim to solve one coding problem each day. Below, you'll find a table that list
 | 24-12-23 | [Day-93](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-93) | Set Matrix Zeroes | [Leetcode Problem 73](https://leetcode.com/problems/set-matrix-zeroes/) |
 | 25-12-23 | [Day-94](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-94) | Length of Last Word | [Leetcode Problem 58](https://leetcode.com/problems/length-of-last-word/) |
 | 26-12-23 | [Day-95](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-95) | Evaluate Reverse Polish Notation | [Leetcode Problem 150](https://leetcode.com/problems/evaluate-reverse-polish-notation/) |
-
+| 27-12-23 | [Day-96](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-96) | Linked List Cycle | [Leetcode Problem 141](https://leetcode.com/problems/linked-list-cycle/) |
