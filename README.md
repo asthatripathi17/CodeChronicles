@@ -105,3 +105,5 @@ I aim to solve one coding problem each day. Below, you'll find a table that list
 | 26-12-23 | [Day-95](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-95) | Evaluate Reverse Polish Notation | [Leetcode Problem 150](https://leetcode.com/problems/evaluate-reverse-polish-notation/) |
 | 27-12-23 | [Day-96](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-96) | Linked List Cycle | [Leetcode Problem 141](https://leetcode.com/problems/linked-list-cycle/) |
 | 28-12-23 | [Day-97](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-97) | Ransom Note | [Leetcode Problem 383](https://leetcode.com/problems/ransom-note/) |
+| 29-12-23 | [Day-98](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-98) | Contains Duplicate II | [Leetcode Problem 219](https://leetcode.com/problems/contains-duplicate-ii/) |
+
