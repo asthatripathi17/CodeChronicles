@@ -110,3 +110,4 @@ I aim to solve one coding problem each day. Below, you'll find a table that list
 | 31-12-23 | [Day-100](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-100) | Delete the Middle Node of a Linked List | [Leetcode Problem 2095](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/) |
 
 <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2F6b.u5ch.com%2Fmeme-a-few-years-later-all-templates-aa-47400067&psig=AOvVaw3FYGgpkHdaiDb_BIFSk1yu&ust=1714543640056000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNDj3fai6YUDFQAAAAAdAAAAABAR" alt="Back to the Grind">
+![image](https://github.com/asthatripathi17/CodeChronicles/assets/121253696/7db0eeca-5a8e-4055-a6d6-4f3be56ac03e)
