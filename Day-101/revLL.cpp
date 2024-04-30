@@ -20,3 +20,24 @@ ListNode* reverseList(ListNode* head) {
 
         return head;
     }
+
+ListNode* reverseList(ListNode* head) {
+        
+        // Reversing the LL without using extra space
+        if(head == NULL || head->next == NULL){
+            return head;
+        }
+
+        ListNode *curr = head, *prev = NULL, *front;
+        while(curr!=NULL){
+            // Saving the front node
+            front = curr->next;
+            // Reversing
+            curr->next = prev;
+            // Updating the nodes
+            prev = curr;
+            curr = front;
+        }
+
+        return prev;
+    }
