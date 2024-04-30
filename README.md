@@ -111,3 +111,6 @@ I aim to solve one coding problem each day. Below, you'll find a table that list
 
 ![maxresdefault](https://github.com/asthatripathi17/CodeChronicles/assets/121253696/dc3afde4-0552-4f5f-9114-a3c4b912952a)
 
+| Date       | Folder Name          | Problem Title      | Link                                      |
+|------------|----------------------|--------------------|-------------------------------------------|
+| 01-05-24   | [Day-101](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-101) | Reverse a Linked List | [LeetCode Problem 206](https://leetcode.com/problems/reverse-linked-list/) |
