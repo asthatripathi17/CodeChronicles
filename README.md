@@ -108,3 +108,4 @@ I aim to solve one coding problem each day. Below, you'll find a table that list
 | 29-12-23 | [Day-98](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-98) | Contains Duplicate II | [Leetcode Problem 219](https://leetcode.com/problems/contains-duplicate-ii/) |
 | 30-12-23 | [Day-99](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-99) | Middle of the Linked List | [Leetcode Problem 876](https://leetcode.com/problems/middle-of-the-linked-list/) |
 | 31-12-23 | [Day-100](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-100) | Delete the Middle Node of a Linked List | [Leetcode Problem 2095](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/) |
+| Break |
