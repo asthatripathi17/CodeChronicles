@@ -23,7 +23,7 @@ ListNode* reverseList(ListNode* head) {
 
 ListNode* reverseList(ListNode* head) {
         
-        // Reversing the LL without using extra space
+        // Reversing the LL without using extra space (Iterative Solution)
         if(head == NULL || head->next == NULL){
             return head;
         }
