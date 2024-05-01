@@ -116,3 +116,4 @@ I aim to solve one coding problem each day. Below, you'll find a table that list
 | Date       | Folder Name          | Problem Title      | Link                                      |
 |------------|----------------------|--------------------|-------------------------------------------|
 | 01-05-24   | [Day-101](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-101) | Reverse a Linked List | [LeetCode Problem 206](https://leetcode.com/problems/reverse-linked-list/) |
+| 02-05-24   | [Day-102](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-102) | Palindrome Linked List | [LeetCode Problem 234](https://leetcode.com/problems/palindrome-linked-list/) |
