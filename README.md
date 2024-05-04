@@ -119,3 +119,4 @@ I aim to solve one coding problem each day. Below, you'll find a table that list
 | 02-05-24   | [Day-102](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-102) | Palindrome Linked List | [LeetCode Problem 234](https://leetcode.com/problems/palindrome-linked-list/) |
 | 03-05-24   | [Day-103](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-103) | Product of Array Except Self | [LeetCode Problem 238](https://leetcode.com/problems/product-of-array-except-self/) |
 | 04-05-24   | [Day-104](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-104) | Remove Nth Node From End of List | [LeetCode Problem 19](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) |
+| 05-05-24   | [Day-105](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-105) | Boats to Save People | [LeetCode Problem 881](https://leetcode.com/problems/boats-to-save-people/) |
