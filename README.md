@@ -120,3 +120,5 @@ I aim to solve one coding problem each day. Below, you'll find a table that list
 | 03-05-24   | [Day-103](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-103) | Product of Array Except Self | [LeetCode Problem 238](https://leetcode.com/problems/product-of-array-except-self/) |
 | 04-05-24   | [Day-104](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-104) | Remove Nth Node From End of List | [LeetCode Problem 19](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) |
 | 05-05-24   | [Day-105](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-105) | Boats to Save People | [LeetCode Problem 881](https://leetcode.com/problems/boats-to-save-people/) |
+| 06-05-24   | [Day-106](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-106) | Remove Duplicates from Sorted Array II | [LeetCode Problem 80](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) |
+
