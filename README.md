@@ -125,3 +125,5 @@ I aim to solve one coding problem each day. Below, you'll find a table that list
 | 08-05-24   | [Day-108](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-108) | Compare Version Numbers | [LeetCode Problem 165](https://leetcode.com/problems/compare-version-numbers/) |
 | 09-05-24   | [Day-109](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-109) | Plus One | [LeetCode Problem 66](https://leetcode.com/problems/plus-one/) |
 | 10-05-24   | [Day-110](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-110) | Remove Nodes from Linked List | [LeetCode Problem 2487](https://leetcode.com/problems/remove-nodes-from-linked-list/) |
+| 11-05-24   | [Day-111](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-111) | Factorial Trailing Zeroes | [LeetCode Problem 172](https://leetcode.com/problems/factorial-trailing-zeroes/) |
+
