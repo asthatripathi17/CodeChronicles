@@ -129,3 +129,4 @@ I aim to solve one coding problem each day. Below, you'll find a table that list
 | 12-05-24   | [Day-112](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-112) | Double a Number Represented as a Linked List | [LeetCode Problem 2816](https://leetcode.com/problems/double-a-number-represented-as-a-linked-list/) |
 | 13-05-24   | [Day-113](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-113) | Relative Ranks | [LeetCode Problem 506](https://leetcode.com/problems/relative-ranks/) |
 | 14-05-24   | [Day-114](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-114) | Minimum Flips to Make a OR b Equal to c | [LeetCode Problem 1318](https://leetcode.com/problems/minimum-flips-to-make-a-or-b-equal-to-c/) |
+| 15-05-24   | [Day-115](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-115) | Goat Latin | [LeetCode Problem 824](https://leetcode.com/problems/goat-latin/) |
