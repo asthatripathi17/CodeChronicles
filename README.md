@@ -131,4 +131,4 @@ I aim to solve one coding problem each day. Below, you'll find a table that list
 | 14-05-24   | [Day-114](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-114) | Minimum Flips to Make a OR b Equal to c | [LeetCode Problem 1318](https://leetcode.com/problems/minimum-flips-to-make-a-or-b-equal-to-c/) |
 | 15-05-24   | [Day-115](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-115) | Goat Latin | [LeetCode Problem 824](https://leetcode.com/problems/goat-latin/) |
 | 16-05-24   | [Day-116](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-116) | Maximize Happiness of Selected Children | [LeetCode Problem 3075](https://leetcode.com/problems/maximize-happiness-of-selected-children/) |
-
+| 17-05-24   | [Day-117](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-117) | Swap Nodes in Pairs | [LeetCode Problem 24](https://leetcode.com/problems/swap-nodes-in-pairs/) |
