@@ -16,3 +16,30 @@ ListNode *detectCycle(ListNode *head) {
 
     return NULL;
 }
+
+// Using Hare and Tortoise Algorithm (Floyd's Cycle Finding Algorithm)
+ListNode *detectCycle(ListNode *head) {
+    
+    if(head == NULL || head->next == NULL){
+        return NULL;
+    }
+
+    ListNode *temp = head, *slow = head, *fast = head;
+    bool cycle = false;
+
+    // Find whether cycle is present or not using Hare and Tortoise Algo
+    while(fast != NULL && fast->next != NULL){
+        slow = slow->next;
+        fast = fast->next->next;
+        if(slow == fast){
+            // cycle detected
+            while(slow!=temp){
+                // L1 = nk - L2 ; where temp and s meets is the starting point
+                slow = slow->next;
+                temp = temp->next;
+            }
+            return temp;
+        }
+    }
+    return NULL;
+}
