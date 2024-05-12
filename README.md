@@ -135,4 +135,4 @@ I aim to solve one coding problem each day. Below, you'll find a table that list
 | 18-05-24   | [Day-118](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-118) | Remove Zero Sum Consecutive Nodes from Linked List | [LeetCode Problem 1171](https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list/) |
 | 19-05-24   | [Day-119](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-119) | Linked List Cycle II | [LeetCode Problem 142](https://leetcode.com/problems/linked-list-cycle-ii/) |
 | 20-05-24   | [Day-120](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-120) | K-th Smallest Prime Fraction | [LeetCode Problem 786](https://leetcode.com/problems/k-th-smallest-prime-fraction/) |
-
+| 21-05-24   | [Day-121](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-121) | Largest Local Values in a Matrix | [LeetCode Problem 2373](https://leetcode.com/problems/largest-local-values-in-a-matrix/) |
