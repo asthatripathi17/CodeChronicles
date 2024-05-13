@@ -138,3 +138,6 @@ I aim to solve one coding problem each day. Below, you'll find a table that list
 | 21-05-24   | [Day-121](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-121) | Largest Local Values in a Matrix | [LeetCode Problem 2373](https://leetcode.com/problems/largest-local-values-in-a-matrix/) |
 | 22-05-24   | [Day-122](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-122) | 3Sum | [LeetCode Problem 15](https://leetcode.com/problems/3sum/) |
 | 23-05-24   | [Day-123](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-123) | Score After Flipping Matrix | [LeetCode Problem 861](https://leetcode.com/problems/score-after-flipping-matrix/) |
+| 24-05-24   | [Day-124](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-124) | Split Linked List in Parts | [LeetCode Problem 725](https://leetcode.com/problems/split-linked-list-in-parts/) |
+
+
