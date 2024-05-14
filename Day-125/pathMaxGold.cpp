@@ -14,7 +14,7 @@ int DFS(vector<vector<int>>& grid, int i, int j){
     // Movements
     // Down --> DFS(grid,i+1,j); || Left --> DFS(grid,i,j-1);
     // Right --> DFS(grid,i,j+1); || Up --> DFS(grid,i-1,j);
-    for(vector<int> &dir:directions){
+    for(vector<int>& dir:directions){
         int new_i = i+dir[0];
         int new_j = j+dir[1];
         maxGold = max(maxGold, DFS(grid,new_i,new_j)); // max among different direction paths
