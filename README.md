@@ -142,5 +142,5 @@ I aim to solve one coding problem each day. Below, you'll find a table that list
 | 25-05-24   | [Day-125](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-125) | Path with Maximum Gold | [LeetCode Problem 1219](https://leetcode.com/problems/path-with-maximum-gold/) |
 | 26-05-24   | [Day-126](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-126) | Next Greater Node in Linked List | [LeetCode Problem 1019](https://leetcode.com/problems/next-greater-node-in-linked-list/) |
 | 27-05-24   | [Day-127](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-127) | Evaluate Boolean Binary Tree | [LeetCode Problem 2331](https://leetcode.com/problems/evaluate-boolean-binary-tree/) |
-
+| 28-05-24   | [Day-128](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-128) | Maximum Depth of Binary Tree | [LeetCode Problem 104](https://leetcode.com/problems/maximum-depth-of-binary-tree/) |
 
