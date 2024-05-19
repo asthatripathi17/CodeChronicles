@@ -146,4 +146,4 @@ I aim to solve one coding problem each day. Below, you'll find a table that list
 | 29-05-24   | [Day-129](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-129) | Delete Leaves With a Given Value | [LeetCode Problem 1325](https://leetcode.com/problems/delete-leaves-with-a-given-value/) |
 | 30-05-24   | [Day-130](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-130) | Path Sum | [LeetCode Problem 112](https://leetcode.com/problems/path-sum/) |
 | 31-05-24   | [Day-131](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-131) | Distribute Coins in Binary Tree | [LeetCode Problem 979](https://leetcode.com/problems/distribute-coins-in-binary-tree/) |
-
+| 01-06-24   | [Day-132](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-132) | Sum Root to Leaf Numbers | [LeetCode Problem 129](https://leetcode.com/problems/sum-root-to-leaf-numbers/) |
