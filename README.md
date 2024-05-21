@@ -152,3 +152,4 @@ I aim to solve one coding problem each day. Below, you'll find a table that list
 | 04-06-24   | [Day-135](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-135) | Subsets | [LeetCode Problem 78](https://leetcode.com/problems/subsets/) |
 | 05-06-24   | [Day-136](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-136) | Word Search | [LeetCode Problem 79](https://leetcode.com/problems/word-search/) |
 | 06-06-24   | [Day-137](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-137) | Binary Tree Right Side View | [LeetCode Problem 199](https://leetcode.com/problems/binary-tree-right-side-view/) |
+| 07-06-24   | [Day-138](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-138) | Binary Tree Level Order Traversal | [LeetCode Problem 102](https://leetcode.com/problems/binary-tree-level-order-traversal/) |
