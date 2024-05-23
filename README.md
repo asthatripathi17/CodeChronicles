@@ -155,3 +155,4 @@ I aim to solve one coding problem each day. Below, you'll find a table that list
 | 07-06-24   | [Day-138](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-138) | Binary Tree Level Order Traversal | [LeetCode Problem 102](https://leetcode.com/problems/binary-tree-level-order-traversal/) |
 | 08-06-24   | [Day-139](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-139) | Binary Tree Pruning | [LeetCode Problem 814](https://leetcode.com/problems/binary-tree-pruning/) |
 | 09-06-24   | [Day-140](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-140) | Roman to Integer | [LeetCode Problem 13](https://leetcode.com/problems/roman-to-integer/) |
+| 10-06-24   | [Day-141](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-141) | The Number of Beautiful Subsets | [LeetCode Problem 2597](https://leetcode.com/problems/the-number-of-beautiful-subsets/) |
