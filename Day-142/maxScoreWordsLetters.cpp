@@ -10,22 +10,16 @@ public:
         return sum;
     }
 
-    void storeDecrement(string st, unordered_map<char, int>& store) {
+    void storeChange(string st, unordered_map<char, int>& store, int delta) {
         for(char ch: st){
-            store[ch]--;
-        }
-    }
-
-    void storeRestore(string st, unordered_map<char, int>& store) {
-        for(char ch: st){
-            store[ch]++;
+            store[ch] += delta;
         }
     }
 
     bool storeChecker(string st, unordered_map<char, int>& store) {
         unordered_map<char, int> temp_store = store; // Create a copy of the store
         for(char ch: st){
-            if(temp_store[ch] == 0){
+            if(temp_store[ch] <= 0){
                 return false; // so that when returns false it doesn't change the store
             }
             temp_store[ch]--;
@@ -44,9 +38,9 @@ public:
 
         // include only if in store
         if(storeChecker(words[index],store)){
-            storeDecrement(words[index], store); // to update the store for next word
+            storeChange(words[index], store, -1); // to update the store for next word
             calcScore(words, store, score, index + 1, max_value, temp + wordValue(words[index], score));
-            storeRestore(words[index], store); // backtrack the store
+            storeChange(words[index], store, 1); // backtrack the store
         }
     }
     
