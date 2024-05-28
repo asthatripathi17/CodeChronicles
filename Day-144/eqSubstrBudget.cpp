@@ -18,3 +18,17 @@ int equalSubstring(string s, string t, int maxCost) {
 }
 
 // Sliding Window Solution
+int equalSubstring(string s, string t, int maxCost) {
+    int i = 0, j = 0, sum = 0;
+    int window = 0;
+    while(i<=j && j<s.length() && i<s.length()){
+        sum += abs(s[j]-t[j]);
+        while(sum>maxCost){
+            sum -= abs(s[i]-t[i]);
+            i++;
+        }
+        window = max(window,j-i+1);
+        j++;
+    }
+    return window;
+}
