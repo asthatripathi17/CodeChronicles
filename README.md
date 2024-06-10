@@ -167,3 +167,4 @@ I aim to solve one coding problem each day. Below, you'll find a table that list
 | 19-06-24   | [Day-150](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-150) | Replace Words | [LeetCode Problem 648](https://leetcode.com/problems/replace-words/) |
 | 20-06-24   | [Day-151](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-151) | Continuous Subarray Sum | [LeetCode Problem 523](https://leetcode.com/problems/continuous-subarray-sum/) |
 | 21-06-24   | [Day-152](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-152) | Binary Tree Zigzag Level Order Traversal | [LeetCode Problem 103](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) |
+| 22-06-24   | [Day-153](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-153) | Heights Checker | [LeetCode Problem 1051](https://leetcode.com/problems/height-checker/) |
