@@ -15,3 +15,25 @@ int minIncrementForUnique(vector<int>& nums) {
 
     return increm;
 }
+
+// Using kind of counting sort
+int minIncrementForUnique(vector<int>& nums) {
+    int increm = 0;
+    int siz = *max_element(nums.begin(),nums.end()) + nums.size();
+    vector<int> storeFreq(siz,0);
+    for(int i = 0; i<nums.size(); i++){
+        storeFreq[nums[i]]++;
+    }
+    int carry = 0;
+    for(int i = 0;i<storeFreq.size(); i++){
+        storeFreq[i] += carry; 
+        if(storeFreq[i]>1){
+            carry = storeFreq[i]-1;
+            increm += carry;
+        }
+        else{
+            carry = 0;
+        }
+    }
+    return increm;
+}
