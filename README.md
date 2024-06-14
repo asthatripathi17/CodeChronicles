@@ -170,3 +170,4 @@ I aim to solve one coding problem each day. Below, you'll find a table that list
 | 22-06-24   | [Day-153](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-153) | Heights Checker | [LeetCode Problem 1051](https://leetcode.com/problems/height-checker/) |
 | 23-06-24   | [Day-154](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-154) | Relative Sort Array | [LeetCode Problem 1122](https://leetcode.com/problems/relative-sort-array/) |
 | 24-06-24   | [Day-155](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-155) | Climbing Stairs | [LeetCode Problem 70](https://leetcode.com/problems/climbing-stairs/) |
+| 25-06-24   | [Day-156](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-156) | Minimum Increment to Make Array Unique | [LeetCode Problem 945](https://leetcode.com/problems/minimum-increment-to-make-array-unique/) |
