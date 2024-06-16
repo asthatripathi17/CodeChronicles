@@ -172,3 +172,4 @@ I aim to solve one coding problem each day. Below, you'll find a table that list
 | 24-06-24   | [Day-155](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-155) | Climbing Stairs | [LeetCode Problem 70](https://leetcode.com/problems/climbing-stairs/) |
 | 25-06-24   | [Day-156](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-156) | Minimum Increment to Make Array Unique | [LeetCode Problem 945](https://leetcode.com/problems/minimum-increment-to-make-array-unique/) |
 | 26-06-24   | [Day-157](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-157) | IPO | [LeetCode Problem 502](https://leetcode.com/problems/ipo/) |
+| 27-06-24   | [Day-158](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-158) | Patching Array | [LeetCode Problem 330](https://leetcode.com/problems/patching-array/) |
