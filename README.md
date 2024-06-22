@@ -174,3 +174,4 @@ I aim to solve one coding problem each day. Below, you'll find a table that list
 | 26-06-24   | [Day-157](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-157) | IPO | [LeetCode Problem 502](https://leetcode.com/problems/ipo/) |
 | 27-06-24   | [Day-158](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-158) | Patching Array | [LeetCode Problem 330](https://leetcode.com/problems/patching-array/) |
 | 28-06-24   | [Day-159](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-159) | Sum of Square Numbers | [LeetCode Problem 633](https://leetcode.com/problems/sum-of-square-numbers/) |
+| 29-06-24   | [Day-160](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-160) | Add Two Numbers | [LeetCode Problem 2](https://leetcode.com/problems/add-two-numbers) |
