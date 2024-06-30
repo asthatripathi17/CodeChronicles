@@ -176,4 +176,5 @@ I aim to solve one coding problem each day. Below, you'll find a table that list
 | 28-06-24   | [Day-159](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-159) | Sum of Square Numbers | [LeetCode Problem 633](https://leetcode.com/problems/sum-of-square-numbers/) |
 | 29-06-24   | [Day-160](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-160) | Add Two Numbers | [LeetCode Problem 2](https://leetcode.com/problems/add-two-numbers) |
 | 30-06-24   | [Day-161](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-161) | Count Good Nodes in Binary Tree | [LeetCode Problem 1448](https://leetcode.com/problems/count-good-nodes-in-binary-tree/) |
-| 31-06-24   | [Day-161](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-162) | Leaf-Similar Trees | [LeetCode Problem 872](https://leetcode.com/problems/leaf-similar-trees/) |
+| 01-07-24   | [Day-162](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-162) | Leaf-Similar Trees | [LeetCode Problem 872](https://leetcode.com/problems/leaf-similar-trees/) |
+| 02-07-24   | [Day-163](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-163) | Minimum Cost for Tickets | [LeetCode Problem 983](https://leetcode.com/problems/minimum-cost-for-tickets/) |
