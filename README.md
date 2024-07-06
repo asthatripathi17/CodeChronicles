@@ -181,3 +181,4 @@ I aim to solve one coding problem each day. Below, you'll find a table that list
 | 03-07-24   | [Day-164](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-164) | Symmetric Tree | [LeetCode Problem 101](https://leetcode.com/problems/symmetric-tree/) |
 | 04-07-24   | [Day-165](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-165) | Three Consecutive Odds | [LeetCode Problem 1550](https://leetcode.com/problems/three-consecutive-odds/) |
 | 05-07-24   | [Day-166](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-166) | Intersection of Two Arrays II | [LeetCode Problem 350](https://leetcode.com/problems/intersection-of-two-arrays-ii/) |
+| 06-07-24   | [Day-167](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-167) | Pass the Pillow | [LeetCode Problem 2582](https://leetcode.com/problems/pass-the-pillow/) |
