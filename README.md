@@ -183,3 +183,4 @@ I aim to solve one coding problem each day. Below, you'll find a table that list
 | 05-07-24   | [Day-166](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-166) | Intersection of Two Arrays II | [LeetCode Problem 350](https://leetcode.com/problems/intersection-of-two-arrays-ii/) |
 | 06-07-24   | [Day-167](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-167) | Pass the Pillow | [LeetCode Problem 2582](https://leetcode.com/problems/pass-the-pillow/) |
 | 07-07-24   | [Day-168](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-168) | Water Bottles | [LeetCode Problem 1518](https://leetcode.com/problems/water-bottles/) |
+| 08-07-24   | [Day-169](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-169) | Find the Minimum and Maximum Number of Nodes Between Critical Points | [LeetCode Problem 2058](https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) |
