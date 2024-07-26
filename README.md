@@ -187,3 +187,5 @@ I aim to solve one coding problem each day. Below, I've included a table that li
 | 09-07-24   | [Day-170](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-170) | Find the Winner of the Circular Game | [LeetCode Problem 1823](https://leetcode.com/problems/find-the-winner-of-the-circular-game/) |
 | 10-07-24   | [Day-171](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-171) | Create Binary Tree From Descriptions | [LeetCode Problem 2196](https://leetcode.com/problems/create-binary-tree-from-descriptions/) |
 | 11-07-24   | [Day-172](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-172) | Build a Matrix With Conditions | [LeetCode Problem 23](https://leetcode.com/problems/build-a-matrix-with-conditions/) |
+| 12-07-24   | [Day-173](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-173) | Gas Station | [LeetCode Problem 134](https://leetcode.com/problems/gas-station/) |
+| 13-07-24   | [Day-174](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-174) | Candy | [LeetCode Problem 135](https://leetcode.com/problems/candy/) |
