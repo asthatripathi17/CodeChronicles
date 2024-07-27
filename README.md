@@ -2,7 +2,7 @@
 *Chronicles my daily coding journey and achievements ⌨🖥️*
 ## Daily Coding Challenge Repository
 
-This repository contains my daily coding challenge solutions from various platforms. 
+This repository contains my daily coding challenge solutions from various platforms (Leetcode and GFG). 
 I aim to solve one coding problem each day. Below, I've included a table that lists each day's challenge or solved the problem along with the folder name, problem title, and a link to the problem. 
 
 ## Daily Challenges
