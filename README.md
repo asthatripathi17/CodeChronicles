@@ -191,3 +191,4 @@ I aim to solve one coding problem each day. Below, I've included a table that li
 | 13-07-24   | [Day-174](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-174) | Candy | [LeetCode Problem 135](https://leetcode.com/problems/candy/) |
 | 14-07-24   | [Day-175](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-175) | N-Queens | [LeetCode Problem 51](https://leetcode.com/problems/n-queens/) |
 | 15-07-24   | [Day-176](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-176) | Generate Parentheses | [LeetCode Problem 22](https://leetcode.com/problems/generate-parentheses/) |
+| 16-07-24   | [Day-177](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-177) | Kth Largest Element in an Array | [LeetCode Problem 215](https://leetcode.com/problems/kth-largest-element-in-an-array/) |
