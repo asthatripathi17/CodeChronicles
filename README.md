@@ -192,3 +192,4 @@ I aim to solve one coding problem each day. Below, I've included a table that li
 | 14-07-24   | [Day-175](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-175) | N-Queens | [LeetCode Problem 51](https://leetcode.com/problems/n-queens/) |
 | 15-07-24   | [Day-176](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-176) | Generate Parentheses | [LeetCode Problem 22](https://leetcode.com/problems/generate-parentheses/) |
 | 16-07-24   | [Day-177](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-177) | Kth Largest Element in an Array | [LeetCode Problem 215](https://leetcode.com/problems/kth-largest-element-in-an-array/) |
+| 17-07-24   | [Day-178](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-178) | Number of Islands | [LeetCode Problem 200](https://leetcode.com/problems/number-of-islands/) |
