@@ -199,4 +199,6 @@ I aim to solve one coding problem each day. Below, I've included a table that li
 ![maxresdefault](https://github.com/asthatripathi17/CodeChronicles/assets/121253696/dc3afde4-0552-4f5f-9114-a3c4b912952a)
 ***<p style="text-align: center;">awkward laugh...Back to the grind...once again</p>***
 
+| Date       | Folder Name          | Problem Title      | Link                                      |
+|------------|----------------------|--------------------|-------------------------------------------|
 | 18-02-25   | [Day-181](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-181) | Construct Smallest Number From DI String | [LeetCode Problem 2375](https://leetcode.com/problems/construct-smallest-number-from-di-string/) |
