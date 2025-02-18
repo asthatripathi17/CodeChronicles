@@ -195,3 +195,8 @@ I aim to solve one coding problem each day. Below, I've included a table that li
 | 17-07-24   | [Day-178](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-178) | Number of Islands | [LeetCode Problem 200](https://leetcode.com/problems/number-of-islands/) |
 | 18-07-24   | [Day-179](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-179) | Flood Fill | [LeetCode Problem 733](https://leetcode.com/problems/flood-fill/) |
 | 19-07-24   | [Day-180](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-180) | Reorder List | [LeetCode Problem 143](https://leetcode.com/problems/reorder-list/) |
+
+![maxresdefault](https://github.com/asthatripathi17/CodeChronicles/assets/121253696/dc3afde4-0552-4f5f-9114-a3c4b912952a)
+***<p style="text-align: center;">awkward laugh...Back to the grind...once again</p>***
+
+| 18-02-25   | [Day-181](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-181) | Construct Smallest Number From DI String | [LeetCode Problem 2375](https://leetcode.com/problems/construct-smallest-number-from-di-string/) |
