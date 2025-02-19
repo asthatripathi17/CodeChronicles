@@ -202,3 +202,4 @@ I aim to solve one coding problem each day. Below, I've included a table that li
 | Date       | Folder Name          | Problem Title      | Link                                      |
 |------------|----------------------|--------------------|-------------------------------------------|
 | 18-02-25   | [Day-181](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-181) | Construct Smallest Number From DI String | [LeetCode Problem 2375](https://leetcode.com/problems/construct-smallest-number-from-di-string/) |
+| 19-02-25   | [Day-182](https://github.com/asthatripathi17/CodeChronicles/tree/main/Day-182) | The k-th Lexicographical String of All Happy Strings of Length n | [LeetCode Problem 1415](https://leetcode.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) |
