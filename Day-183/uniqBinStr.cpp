@@ -30,6 +30,7 @@ string findDifferentBinaryString(vector<string>& nums) {
 
 // Approach 2 - Using Cantor's Diagonalization method, where we construct a new binary string by flipping the i-th character of nums[i]
 // Cantor's Diagonalization Idea - If there are n strings of length n, we can guarantee that our new string differs from each input string at least in one position (the diagonal position). This ensures the new string is not present in the input list.
+
 string findDifferentBinaryString(vector<string>& nums) {
 
     int n = nums.size();
