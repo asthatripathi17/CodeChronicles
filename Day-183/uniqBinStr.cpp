@@ -1,3 +1,4 @@
+// Approach 1 - Using the unordered set and converting each no between 0 to 2^n - 1 to binary string to check whether it is present or not 
 string int2Bin(int num, int n){
     string binIndex = "";
     while(num>0){
