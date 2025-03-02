@@ -14,6 +14,28 @@ ListNode *getIntersectionNode(ListNode *headA, ListNode *headB) {
         }
         temp = temp->next;
     }
-
     return temp;
+}
+
+ListNode *getIntersectionNode(ListNode *headA, ListNode *headB) {
+    // two pointer approach
+    ListNode *p1 = headA, *p2 = headB;
+    
+    while(p1 || p2){
+        if(p1 == p2){
+            break;
+        }
+        else if(!p1){
+            p1 = headB;
+        }
+        else if(!p2){
+            p2 = headA;
+        }
+        else{
+            p1 = p1->next;
+            p2 = p2->next;
+        }
+    }
+
+    return p1;
 }
